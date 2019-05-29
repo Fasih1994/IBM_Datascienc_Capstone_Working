@@ -1,0 +1,7 @@
+,Model Name,Activations,Output Activations,Drouput,Optimizer,Model Accuracy,Model Loss
+5,final_model,tanh,softmax,None,adam,0.986017520054974,0.04032745162643884
+2,CNN 9 Layers,tanh,softmax,None,adam,0.9659703504043127,0.12502826296415612
+3,CNN 9 Layers dropout,tanh,softmax,0.14,adam,0.9166105119687207,0.2732250911768556
+4,VGG16,tanh,softmax,None,adam,0.20906334227789444,2.603566477562218
+0,Logistic Regression,None,softmax,None,sgd,0.08086253369272237,14.80184597981908
+1,CNN 5 Layers,relu,softmax,None,adam,0.026111859848316148,3.1811786269884545
